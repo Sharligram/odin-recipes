@@ -10,3 +10,6 @@ Modified index.html and lasagna.html to be more interactive.
 0.2
 Optimized the navegation in between all pages.
 Added coffe.html and layed the foundations.
+
+0.3 
+Finished coffe.html. Improved on the nav between pages. Added stylesheet/styles.css to the Directory 
